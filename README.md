@@ -1,7 +1,6 @@
 # decentube
 
 > A Decentralized Video Streaming dApp
-> Live at (decentube.com)
 
 ## Build Setup
 
